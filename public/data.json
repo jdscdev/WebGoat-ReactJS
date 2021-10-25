@@ -1,0 +1,5 @@
+{
+    "dangerouslySetInnerHTML":{
+        "__html":"<img src=x onerror=alert`123`>"
+    }
+}
